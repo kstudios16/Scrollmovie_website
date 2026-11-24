@@ -14,7 +14,7 @@ const SITE_CONFIG = {
     behind: true
   },
   videos: {
-    trailer: "https://www.youtube.com/embed/REPLACE_WITH_TRAILER_ID",
+    trailer: "https://vimeo.com/1230499139/895d941ae6?fl=ip&fe=ec&share=copy",
     byte1: "https://www.youtube.com/embed/REPLACE_WITH_BYTE_1_ID",
     byte2: "https://www.youtube.com/embed/REPLACE_WITH_BYTE_2_ID",
     byte3: "https://www.youtube.com/embed/REPLACE_WITH_BYTE_3_ID",
