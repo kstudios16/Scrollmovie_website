@@ -7,10 +7,10 @@
 const SITE_CONFIG = {
   sections: {
     hero: true,
-    film: true,
+    film: false,
     posters: true,
     trailer: true,
-    bytes: true,
+    bytes: false,
     behind: true
   },
   videos: {
